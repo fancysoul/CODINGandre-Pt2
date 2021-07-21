@@ -1061,11 +1061,11 @@ form.contact-wthree label {
 
 /* responsive */
 
-@media(max-width: 600px) {}
+@media(max-width: 1680px) {}
 
-@media(max-width: 600px) {}
+@media(max-width: 1600px) {}
 
-@media(max-width: 600px) {
+@media(max-width: 1440px) {
     .style-banner h1 {
         font-size: 44px;
     }
@@ -1082,7 +1082,7 @@ form.contact-wthree label {
     }
 }
 
-@media(max-width: 600px) {
+@media(max-width: 1366px) {
     li.search {
         margin-left: 12em;
     }
@@ -1104,7 +1104,7 @@ form.contact-wthree label {
     }
 }
 
-@media(max-width: 600px) {
+@media(max-width: 1280px) {
     li.search {
         margin-left: 9em;
     }
@@ -1144,7 +1144,7 @@ form.contact-wthree label {
     }
 }
 
-@media(max-width: 600px) {
+@media(max-width: 1080px) {
     .navbar-light .navbar-nav .nav-link {
         font-size: 15px;
     }
@@ -1222,17 +1222,17 @@ form.contact-wthree label {
     }
 }
 
-@media(max-width: 600px) {
+@media(max-width: 1050px) {
     
 }
 
-@media(max-width: 600px) {
+@media(max-width: 1024px) {
     .style-banner h1 {
         font-size: 36px;
     }
 }
 
-@media(max-width: 600px) {
+@media(max-width: 991px) {
     li.search {
         margin-left: 0;
     }
